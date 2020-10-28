@@ -57,7 +57,7 @@ h1,h2,h3,h4,h5,h6{ line-height: 1; }
 #login_menu li span.count{
   display: inline-block;
   background: #ffc01d;
-  color: white;
+  color: black;
   border-radius: 100%;
   width: 20px;
   height: 20px;
@@ -117,7 +117,7 @@ a.common_btn{
   line-height: 60px;
   border-radius: 5px;
   background: #0055b8;
-  color: white;
+  color: pink;
   font-size: 20px;
   margin-top: 38px;
 }
@@ -133,7 +133,7 @@ a.common_btn{
 #container section .inner h2{
   font-size: 45px;
   line-height: 60px;
-  color: #333333;
+  color: #666666;
 }
 
 #container section .inner .subtitle{
